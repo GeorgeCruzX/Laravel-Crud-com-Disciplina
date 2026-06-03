@@ -6,6 +6,9 @@
 
 3 - docker-compose exec app php artisan migrate
 
-Acesso: http://localhost:15000/disciplina
-        http://localhost:15000/curso
+Acesso: 
+
+http://localhost:15000/disciplina
+
+http://localhost:15000/curso
 
